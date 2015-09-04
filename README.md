@@ -1,3 +1,8 @@
+# Installation
+NVM needs to be installed since tilemill can only be run by node v0.10.
+
+Run `npm start` in the root directory.
+
 # Notes
 
 Tilemill is an old format of what is currently a Mapbox.
