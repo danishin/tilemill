@@ -1,0 +1,3 @@
+[submodule "tilemill"]
+    path = src
+    url = https://github.com/mapbox/tilemill.git
