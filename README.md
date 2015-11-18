@@ -1,7 +1,9 @@
 # Installation
 NVM needs to be installed since tilemill can only be run by node v0.10.
 
-Run `npm start` in the root directory.
+1. Run `git clone --recursive https://github.com/danishin/tilemill.git` to clone submodules as well.
+
+2. Run `npm start` in the root directory.
 
 # Notes
 
